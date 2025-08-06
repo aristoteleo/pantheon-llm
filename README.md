@@ -45,7 +45,7 @@ adata.obsm['X_scgpt'] = embeddings
 | **scGPT** | General-purpose | Cell annotation, integration, generation |
 | **scFoundation** | Foundation model | Large-scale pre-training, versatile |
 | **Geneformer** | Gene perturbation | In silico perturbation experiments |
-| **CellPLM** | Protein language model | Multi-omics integration |
+| **CellPLM** | Pre-training of Cell Language Model | cell-cell relations |
 | **UCE** | Universal embeddings | Cross-species, cross-platform |
 
 ## Core Usage
